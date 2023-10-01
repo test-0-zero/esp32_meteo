@@ -1,0 +1,19 @@
+.classe_logo_amedeus figure {
+  float: right;
+  width: 60px;
+  height: 60px;
+  text-align: center;
+  font-style: italic;
+  font-size: xx-small;
+  text-indent: 0;
+  border: thin silver solid;
+/*  margin: 0.5em;
+  padding: 0.5em; */
+}
+
+.classe_logo_amedeus img {
+  float: right;
+  width: 60px;
+  height: 60px;
+  background: #555;
+}
