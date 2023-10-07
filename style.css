@@ -19,7 +19,7 @@
 }
 
 .classe_iconmeteo img {
-  float: right;
+  float: left;
   width: 60px;
   height: 60px;
   background: #555;
