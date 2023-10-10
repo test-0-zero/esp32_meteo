@@ -22,7 +22,7 @@
 
 .classe_iconmeteo figure {
   float: left;
-  width: 60px;
+  width: 70px;
   height: 70px;
   text-align: center;
   font-style: italic;
@@ -36,7 +36,7 @@
 
 .classe_iconmeteo img {
   float: left;
-  width: 60px;
+  width: 70px;
   height: 70px;
   background: #555;
 }
