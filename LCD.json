@@ -1,0 +1,34 @@
+{
+  "riga0": "Chatb.Meteo Telegram",
+  "riga1":"localita",
+    "azioni": [
+    "prev. METEO DOMANI",
+    "Accesso pagina web",
+    "ric. WEB reload pag.",
+    "ric. WEB meteo OGGI",
+    "ric. WEB meteoDOMANI",
+    "ric. WEB   Stufa Off",
+    "ric. WEB   Stufa On",
+    "ric. Teleg.   /start",  
+    "ric. Teleg.    /oggi",
+    "ric. Teleg.  /domani",
+    "ric. Teleg.   /gradi",
+    "ric. Teleg./stufa_on",
+    "ric. Teleg./stufaoff"
+  ],
+    "risposte": [
+    "la stufa è SPENTA",  
+    "la stufa è ACCESA",  
+    "la temperatura è   °",
+    "previsione_meteo"
+  ],
+  "boolean": true,
+  "color": "gold",
+  "null": null,
+  "number": 123,
+  "object": {
+    "a": "b",
+    "c": "d"
+  },
+  "string": "Hello World"
+}
