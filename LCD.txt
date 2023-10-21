@@ -1,23 +1,23 @@
-riga0 - titolo 
-Chatb.Meteo Telegram
-riga1 - localita
-localita        
-riga2 - azioni
-prev. METEO DOMANI :
-Accesso pagina web  
-ric. WEB reload pag. 
-ric. WEB meteo OGGI
-ric. WEB meteoDOMANI
-ric. WEB   Stufa Off
-ric. WEB   Stufa On 
-ric. Teleg.   /start  
-ric. Teleg.    /oggi
-ric. Teleg.  /domani
-ric. Teleg.   /gradi
-ric. Teleg./stufa_on
-ric. Teleg./stufaoff
-riga3 - risposta
-la stufa è SPENTA   
-la stufa è ACCESA   
-la temperatura è   °
-previsione_meteo
+riga0 - titolo;
+Chatb.Meteo Telegram;
+riga1 - localita;
+localita;
+riga2 - azioni;
+prev. METEO DOMANI :;
+Accesso pagina web  ;
+ric. WEB reload pag.;
+ric. WEB meteo OGGI ;
+ric. WEB meteoDOMANI;
+ric. WEB   Stufa Off;
+ric. WEB   Stufa On ;
+ric. Teleg.   /start;  
+ric. Teleg.    /oggi;
+ric. Teleg.  /domani;
+ric. Teleg.   /gradi;
+ric. Teleg./stufa_on;
+ric. Teleg./stufaoff;
+riga3 - risposte;
+la stufa è SPENTA   ;  
+la stufa è ACCESA   ;  
+la temperatura è   °;
+previsione_meteo;
